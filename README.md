@@ -19,7 +19,7 @@ Download dataset called ('combined_data.csv) and make sure that this piece of co
 df = pd.read_csv('combined_data.csv')
 ```
 
-## ipynb file
+## .ipynb file
 The .ipynb file is split into four parts.
 
 ### Part - 1 Preprocessing dataset
