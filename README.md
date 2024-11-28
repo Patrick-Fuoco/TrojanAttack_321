@@ -9,6 +9,7 @@
 | Alexandre-Louis Trinh | 40173273 |
 | Kevin Duong | 40209877 |
 | Kevin Yang | 40214231 |
+| Angon Deb Akash | 40228908 |
 
 ## Dataset
 Dataset used for: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
