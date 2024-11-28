@@ -14,6 +14,7 @@
 Dataset used for: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
 
 ### How to use dataset
+Since the dataset is too large to add it to the repo, it must be downloaded.
 Download dataset called ('combined_data.csv) and make sure that this piece of code works.
 ```
 df = pd.read_csv('combined_data.csv')
